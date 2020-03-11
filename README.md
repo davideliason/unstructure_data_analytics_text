@@ -1,4 +1,4 @@
-# Unstructured Data Analysis
+# Unstructured Data Analysis (Text Mining)
 ## Data representation
 ### Text Representation
 Working with Python 3 and Jupyter tools.

@@ -15,7 +15,10 @@ Unstructured Data Analytics Process
 The problem is that there are too many dimensions, such as having different forms of a word but the same meaning. We can **normalize** using stemming or lemmatization.
 • Stemming: 
     A process of transforming a word into its stem, base or root form (normalized form) by removing its affix
-• Lemmatization • TFI‐DF
+• Lemmatization • 
+
+**TFI‐IDF** is an approach of weighting words to emphasize uniqueness and find relative importance of the word in the document.
+
 – Phrase level information • N‐grams
 – Part‐of‐speech level information • POS
 • Parse Tree
